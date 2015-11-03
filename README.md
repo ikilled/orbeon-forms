@@ -54,7 +54,7 @@ Orbeon Forms comes in two editions:
 For more information and downloadable binaries, see the [download](http://www.orbeon.com/download) page.
 
 The system requirements and installation procedure are detailed on
-[Installing Orbeon Forms](http://wiki.orbeon.com/forms/doc/developer-guide/admin/installing).
+[Installing Orbeon Forms](https://github.com/orbeon/orbeon-forms/wiki/Installation).
 
 
 Community and support
